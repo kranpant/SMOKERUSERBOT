@@ -16,8 +16,8 @@ async def start_user():
     x = await Bunny.get_me()
     print(f"υѕєявσт ѕυ¢¢єѕѕfυℓℓყ ѕтαятє∂ αѕ {x.first_name} ⚡ ")
     try:
-     await Bunny.join_chat("RoBotXSupport")
-     await Bunny.join_chat("RoBotXUpdates")
+     await Bunny.join_chat("RaBBiTXSupport")
+     await Bunny.join_chat("RaBBiTXUpdate")
     except:
       pass
     try:
