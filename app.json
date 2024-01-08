@@ -1,22 +1,22 @@
 {
-    "name": "RaBBiTX UserBot",
-    "description": "RaBBItX Userbot is most advance and stable userbot on telegram || based on pyrogram || deploy and enjoy !!",
-    "keywords": ["pyrogram", "RaBBITXUserBot", "Imshivaexe", "UserBot"],
-    "repository": "https://github.com/Imshivaexe/RaBBiTUserBot",
+    "name": "ᏕᎷᎧᏦᏋᏒ 𝘼𝘿𝘿𝙞𝙘𝙩𝙞𝙤𝙣ᜰ꙰ꦿ🍷 UserBot",
+    "description": "ᏕᎷᎧᏦᏋᏒ 𝘼𝘿𝘿𝙞𝙘𝙩𝙞𝙤𝙣ᜰ꙰ꦿ🍷 Userbot is most advance and stable userbot on telegram || based on pyrogram || deploy and enjoy !!",
+    "keywords": ["pyrogram", "SMOKER_USERBOT", "SMOKER_USERBOT", "UserBot"],
+    "repository": "https://github.com/kranpant/SMOKERUSERBOT",
   "stack": "container",
     "env": {
         "API_ID": {
             "description": "get this value from my.telegram.org",
             "required": true,
-            "value": "21455847"
+            "value": ""
         },
         "API_HASH": {
             "description": "get this value from my.telegram.org",
             "required": true,
-            "value": "8362067b5445fd55efd6b70d78f97fbd"
+            "value": ""
         },
         "SESSION": {
-            "description": "get this value from reblit",
+            "description": "get this value from ᏕᎷᎧᏦᏋᏒ 𝘼𝘿𝘿𝙞𝙘𝙩𝙞𝙤𝙣ᜰ꙰ꦿ🍷",
             "required": true,
             "value": ""
         },
@@ -31,7 +31,7 @@
             "value": "."
         },
         "LOGGER_ID": {
-            "description": "fill here your logger group id",
+            "description": "yha group ki id dal",
             "required": true,
             "value" : ""
         },
