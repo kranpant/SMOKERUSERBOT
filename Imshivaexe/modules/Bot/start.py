@@ -8,11 +8,11 @@ from Imshivaexe import Bunny
 START_BUTTONS = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton('๏ Support ๏', url='https://telegram.me/RoBotXsupport'),
-            InlineKeyboardButton("๏ Updates ๏", url='https://t.me/Robotxupdates')
+            InlineKeyboardButton('๏ Support ๏', url='https://t.me/SMOKER_USERBOT'),
+            InlineKeyboardButton("๏ Updates ๏", url='https://t.me/SMOKER_USERBOT')
         ],
         [
-            InlineKeyboardButton("๏ Repo ๏", url='https://github.com/Imshivaexe/RaBBiTUserBot')
+            InlineKeyboardButton("๏ ᏕᎷᎧᏦᏋᏒ 𝘼𝘿𝘿𝙞𝙘𝙩𝙞𝙤𝙣ᜰ꙰ꦿ🍷Repo ๏", url='https://t.me/SMOKER_USERBOT')
         ]
     ]
 )
@@ -21,13 +21,13 @@ START_BUTTONS = InlineKeyboardMarkup(
 START_TEXT = """
 __**Heya!!**__ {}
 
-**__๏ Im RaBBiTX UserBot Developer Assistant Here..!! __**
+**__๏ Im ᏕᎷᎧᏦᏋᏒ 𝘼𝘿𝘿𝙞𝙘𝙩𝙞𝙤𝙣ᜰ꙰ꦿ🍷 UserBot Developer Assistant Here..!! __**
 
 **__๏ If you want to know more about me then you can join my support group..!!__**
 
-**My Developer ~** {}
+**My Developer ~** {ᏕᎷᎧᏦᏋᏒ 𝘼𝘿𝘿𝙞𝙘𝙩𝙞𝙤𝙣ᜰ꙰ꦿ🍷}
 
-**By © @ITZ_RaBBiTX**
+**By © @SMOKER_USERBOT**
 """
 
 @Bot.on_message(filters.private & filters.command(["start"]))
