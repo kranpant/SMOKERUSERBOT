@@ -2,7 +2,7 @@ from pyrogram import Client, enums, filters
 from pyrogram.raw import functions
 from pyrogram.types import Message
 
-""" © @Imshivaexe """
+""" © @SMOKER_USERBOT """
 
 commands = {
     "ftyping": enums.ChatAction.TYPING,
@@ -19,4 +19,4 @@ commands = {
     "fscreen": "screenshot",
  }
 
-""" © @Imshivaexe """
+""" © @SMOKER_USERBOT """
