@@ -7,7 +7,7 @@ from config import HELP_PIC
 from Imshivaexe import Bunny
 from pyrogram.types import InlineQueryResultPhoto as IQRP
 
-PIC = HELP_PIC
+PIC = https://telegra.ph/file/dfe3bf37f969e4464393b.jpg
 
 HELP_TEXT = "**๏ ᴛʜɪs ɪs ᴛʜᴇ ʜᴇʟᴘ ᴍeɴᴜ ᴏғ ᏕᎷᎧᏦᏋᏒ 𝘼𝘿𝘿𝙞𝙘𝙩𝙞𝙤𝙣ᜰ꙰ꦿ🍷 ᴜsᴇʀʙᴏᴛ**\n\n**๏ __ᏕᎷᎧᏦᏋᏒ 𝘼𝘿𝘿𝙞𝙘𝙩𝙞𝙤𝙣ᜰ꙰ꦿ🍷 UserBot loaded with 150+ Commands 🍷**__\n\n๏ **__By © @SMOKER_USERBOT** 🥂\n\n**๏ page** ~ `1/2`"
 HELP_TEXTT = "**๏ ᴛʜɪs ɪs ᴛʜᴇ ʜᴇʟᴘ ᴍeɴᴜ ᴏғ ᏕᎷᎧᏦᏋᏒ 𝘼𝘿𝘿𝙞𝙘𝙩𝙞𝙤𝙣ᜰ꙰ꦿ🍷 ᴜsᴇʀʙᴏᴛ**\n\n**๏ __ᏕᎷᎧᏦᏋᏒ 𝘼𝘿𝘿𝙞𝙘𝙩𝙞𝙤𝙣ᜰ꙰ꦿ🍷 UserBot loaded with 150+ Commands 🍷**__\n\n๏ **__By © @SMOKER_USERBOT** 🥂\n\n**๏ page** ~ `2/2`"
