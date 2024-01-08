@@ -1,15 +1,15 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">⚡ 𝗥𝗮𝗕𝗕𝗶𝗧𝗫 𝗨𝘀𝗲𝗿𝗕𝗼𝘁 ⚡</p>
+<p align="center">⚡ 𝐒𝐌𝐎𝐊𝐄𝐑 𝐔𝐒𝐄𝐑𝐁𝐎𝐓 ⚡</p>
 
-[![RaBBiTX](https://telegra.ph//file/03dbb1cc7ba1ec537aba4.jpg)](https://t.me/Robotxupdates)
+[![RaBBiTX](https://telegra.ph/file/dfe3bf37f969e4464393b.jpg)](https://t.me/SMOKER_USERBOT)
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/Imshivaexe/RaBBiTXBot?utm_source=github.com&utm_medium=referral&utm_content=Imshivaexe/RaBBiTXBot&utm_campaign=Badge_Grade_Settings)
-![GitHub repo size](https://img.shields.io/github/repo-size/Imshivaexe/RaBBiTXBot)
+![GitHub repo size](https://img.shields.io/github/repo-size/kranpant/SMOKERUSERBOT)
 
 ## Repo Stats
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Imshivaexe&repo=RaBBiTXBot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=kranpant&repo=SMOKERUSERBOT&theme=dark)
 
 
 ## Requirements 
@@ -17,15 +17,15 @@
 - [API_ID](https://my.telegram.org)
 - [API_HASH](https://my.telegram.org)
 - [TOKEN](https://t.me/Botfather)
-- [SESSION](https://t.me/Venom_String_robot)
+- [SESSION](https://t.me/SMOKER_USERBOT)
 - [MONGO_URI](https://mongodb.com)
-- [HANDLER](https://t.me/Robotxupdates)
+- [HANDLER](https://t.me/SMOKER_USERBOT)
 
 ## Development 
 
 **Heroku Development currently**
 
-<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/Imshivaexe/RaBBiTXBot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/kranpant/SMOKERUSERBOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-pink?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 ## VPS/Locally deploy!
@@ -53,8 +53,8 @@
 >    we will provide docs soon..
 
 ## Credits 💖
-- [Shiva](https://t.me/lmshivaexe)
-- [Pratham](https://t.me/notrealgeek)
+- [ᏕᎷᎧᏦᏋᏒ 𝘼𝘿𝘿𝙞𝙘𝙩𝙞𝙤𝙣ᜰ꙰ꦿ🍷](https://t.me/SMOKER_USERBOT)
+- [ᏕᎷᎧᏦᏋᏒ 𝘼𝘿𝘿𝙞𝙘𝙩𝙞𝙤𝙣ᜰ꙰ꦿ🍷](https://t.me/SMOKER_USERBOT)
 
 ## Support / Updates
 
