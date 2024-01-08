@@ -1,6 +1,6 @@
 RAID = [
     "MADARCHOD TERI MAA KI CHUT ME GHUTKA KHAAKE THOOK DUNGA 🤣🤣",
-    "𝗞𝗬𝗔 𝗠𝗔𝗧𝗟𝗔𝗕 𝗧𝗘𝗥𝗜 𝗕𝗘𝗛𝗘𝗡 𝗞𝗢 𝗖𝗛𝗢𝗖𝗢𝗟𝗔𝗧𝗘 𝗙𝗟𝗔𝗩𝗢𝗨𝗥 𝗣𝗔𝗦𝗔𝗡𝗗 𝗛𝗔𝗜🍆🍑😂",
+    "𝗞𝗬𝗔 𝗠𝗔𝗧𝗟𝗔𝗕 𝗧𝗘𝗥𝗜 𝗕𝗘𝗛𝗘𝗡 𝗞𝗢 ᏕᎷᎧᏦᏋᏒ 𝘼𝘿𝘿𝙞𝙘𝙩𝙞𝙤𝙣ᜰ꙰ꦿ🍷 KA LUND 𝗣𝗔𝗦𝗔𝗡𝗗 𝗛𝗔𝗜🍆🍑😂",
     "TERE BEHEN K CHUT ME CHAKU DAAL KAR CHUT KA KHOON KAR DUGA",
     "𝗞𝗬𝗔 𝗠𝗔𝗧𝗟𝗔𝗕 𝗧𝗘𝗥𝗔 𝗣𝗔𝗣𝗔 𝗞𝗔 𝗟𝗨𝗡𝗗 𝗠𝗔𝗜 𝗗𝗨𝗠 𝗡𝗔𝗛𝗜 𝗧𝗛𝗔 𝗜𝗦𝗟𝗜𝗬𝗘 𝗠𝗘𝗥𝗘 𝗦𝗘 𝗖𝗛𝗨𝗗𝗞𝗘 𝗧𝗘𝗥𝗜 𝗠𝗨𝗠𝗠𝗬 𝗡𝗘 𝗧𝗨𝗝𝗛𝗘 𝗝𝗔𝗡𝗔𝗠 𝗗𝗜𝗬𝗔🍆💦🍑😂",
     "TERI VAHEEN NHI HAI KYA? 9 MAHINE RUK SAGI VAHEEN DETA HU 🤣🤣🤩",
@@ -16,7 +16,7 @@ RAID = [
     "𝗧𝗘𝗥𝗜 𝗕𝗘𝗛𝗘𝗡 𝗞𝗜𝗧𝗡𝗜 𝗛𝗢𝗧 𝗛𝗔𝗜 𝗬𝗔𝗔𝗥 𝗠𝗔𝗡 𝗞𝗥𝗧𝗔 𝗛𝗔𝗜 𝗜𝗧𝗡𝗔 𝗖𝗛𝗢𝗗𝗨 𝗞𝗜 𝗔𝗨𝗥 𝗞𝗢𝗜 𝗖𝗛𝗢𝗗 𝗡𝗔 𝗣𝗔𝗬𝗘 𝗨𝗦𝗞𝗢😂😌🍆",
     "𝗔𝗡𝗗𝗜𝗜 𝗠𝗔𝗡𝗗𝗜𝗜𝗜 𝗦𝗛𝗔𝗡𝗗𝗜𝗜𝗜 𝗔𝗚𝗔𝗥 𝗗𝗨𝗦𝗠𝗔𝗡 𝗟𝗢𝗚 𝗥𝗘𝗣𝗟𝗬 𝗞𝗜𝗬𝗔 𝗧𝗢𝗛 𝗨𝗦𝗞𝗔 𝗠𝗔 𝗕𝗛𝗘𝗡 𝗥𝗔𝗡𝗗𝗜𝗜 😅😅😒",
     "BHOSDIKE !! AGAR HUMAE SE LEGA PANGA TO BEECH BAZAAR KAR DUNGA TERI MAA BHEN KO NANGA 🔥😈😈",
-    "BOT SE CHUD GAYA 🔥😂😂",
+    "ᏕᎷᎧᏦᏋᏒ 𝘼𝘿𝘿𝙞𝙘𝙩𝙞𝙤𝙣ᜰ꙰ꦿ🍷 SE CHUD GAYA 🔥😂😂",
     "𝘿𝘼𝙍𝙒𝘼𝙅𝙀 𝙆𝙀 𝙆𝙊𝙉𝙀 𝙈𝙀 𝙏𝙀𝙍𝙄 𝙈𝙐𝙈𝙈𝙔 𝙆𝘼 𝘾𝙃𝙊𝙊𝘾𝙃𝙄 𝙇𝘼𝙂𝘼 𝙆𝙀 𝘿𝘼𝙍𝙒𝘼𝙅𝘼 𝘽𝘼𝙉𝘿 𝙆𝘼𝙍 𝘿𝙐𝙉𝙂𝘼 !!",
     "𝐂𝐇𝐇𝐈𝐏𝐊𝐀𝐋𝐈 𝐉𝐀𝐈𝐒𝐄 𝐃𝐄𝐄𝐖𝐀𝐋 𝐏𝐄 𝐂𝐇𝐀𝐃𝐇 𝐊𝐄 𝐓𝐄𝐑𝐄 𝐁𝐀𝐀𝐏 𝐊𝐄 𝐌𝐔𝐇 𝐌𝐄 𝐌𝐎𝐎𝐓 𝐃𝐔𝐍𝐆𝐀 😂",
     "TERI BHEN KO JHULE PE BAITHA KE USKI CHUT PE APNA GARAM LODA TOUCH KARUNGA 😌🤣",
