@@ -1,7 +1,7 @@
 from config import HANDLER as hl
 from pyrogram import Client, filters
 from Imshivaexe import Bunny
-from pyrogra.types import Message
+from pyrogram.types import Message
 
 
 @Bunny.on_message(filters.command(["iloveu", "lover"], hl) & filters.me)
