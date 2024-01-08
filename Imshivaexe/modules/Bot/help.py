@@ -9,8 +9,8 @@ from pyrogram.types import InlineQueryResultPhoto as IQRP
 
 PIC = HELP_PIC
 
-HELP_TEXT = "**๏ ᴛʜɪs ɪs ᴛʜᴇ ʜᴇʟᴘ ᴍeɴᴜ ᴏғ ʀᴀʙʙɪᴛx ᴜsᴇʀʙᴏᴛ**\n\n**๏ __RaBBiTX UserBot loaded with 150+ Commands 🍷**__\n\n๏ **__By © @ITZ_RaBBiTX** 🥂\n\n**๏ page** ~ `1/2`"
-HELP_TEXTT = "**๏ ᴛʜɪs ɪs ᴛʜᴇ ʜᴇʟᴘ ᴍeɴᴜ ᴏғ ʀᴀʙʙɪᴛx ᴜsᴇʀʙᴏᴛ**\n\n**๏ __RaBBiTX UserBot loaded with 150+ Commands 🍷**__\n\n๏ **__By © @ITZ_RaBBiTX** 🥂\n\n**๏ page** ~ `2/2`"
+HELP_TEXT = "**๏ ᴛʜɪs ɪs ᴛʜᴇ ʜᴇʟᴘ ᴍeɴᴜ ᴏғ ᏕᎷᎧᏦᏋᏒ 𝘼𝘿𝘿𝙞𝙘𝙩𝙞𝙤𝙣ᜰ꙰ꦿ🍷 ᴜsᴇʀʙᴏᴛ**\n\n**๏ __ᏕᎷᎧᏦᏋᏒ 𝘼𝘿𝘿𝙞𝙘𝙩𝙞𝙤𝙣ᜰ꙰ꦿ🍷 UserBot loaded with 150+ Commands 🍷**__\n\n๏ **__By © @SMOKER_USERBOT** 🥂\n\n**๏ page** ~ `1/2`"
+HELP_TEXTT = "**๏ ᴛʜɪs ɪs ᴛʜᴇ ʜᴇʟᴘ ᴍeɴᴜ ᴏғ ᏕᎷᎧᏦᏋᏒ 𝘼𝘿𝘿𝙞𝙘𝙩𝙞𝙤𝙣ᜰ꙰ꦿ🍷 ᴜsᴇʀʙᴏᴛ**\n\n**๏ __ᏕᎷᎧᏦᏋᏒ 𝘼𝘿𝘿𝙞𝙘𝙩𝙞𝙤𝙣ᜰ꙰ꦿ🍷 UserBot loaded with 150+ Commands 🍷**__\n\n๏ **__By © @SMOKER_USERBOT** 🥂\n\n**๏ page** ~ `2/2`"
 
 ADMINS_MSG = f"""
 **Admins commands**
