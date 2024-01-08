@@ -25,11 +25,11 @@ async def alive(client, message):
 ╭────────────────๏
 ╰๏ **__σωиєя »__** {user}
 ╰๏ __**ρуяσgяαм »__** `{py_version}`
-╰๏ __**яαввιтχ »**__ `{version}`
+╰๏ __**ᏕᎷᎧᏦᏋᏒ 𝘼𝘿𝘿𝙞𝙘𝙩𝙞𝙤𝙣ᜰ꙰ꦿ🍷 »**__ `{version}`
 ╰๏ __**ρутнσи »__** `{python_version()}`
 ╰๏ __**υρтιмє »__** `{upt}`
 ╰────────────────๏
-╰๏      【[ƚԋҽ ɾαႦႦιƚx](https://t.me/SMOKER_USERBOT)】       
+╰๏      【[ᏕᎷᎧᏦᏋᏒ 𝘼𝘿𝘿𝙞𝙘𝙩𝙞𝙤𝙣ᜰ꙰ꦿ🍷](https://t.me/SMOKER_USERBOT)】       
 ╰────────────────๏
 """
     await asyncio.sleep(0.3)
