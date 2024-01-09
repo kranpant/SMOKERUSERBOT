@@ -27,15 +27,15 @@ ALLOW_PORN = getenv("ALLOW_PORN", True) # u can enable and disable porn spam fro
 
 ALIVE_PIC = os.getenv("ALIVE_PIC", "")
 if not ALIVE_PIC:
-    ALIVE_PIC = "https://graph.org/file/cbe8e398c5d84587b7a34.jpg"
+    ALIVE_PIC = "https://telegra.ph/file/dfe3bf37f969e4464393b.jpg"
     
 HELP_PIC = os.getenv("HELP_PIC", "")
 if not HELP_PIC:
-    HELP_PIC = "https://graph.org/file/cbe8e398c5d84587b7a34.jpg"
+    HELP_PIC = "https://telegra.ph/file/dfe3bf37f969e4464393b.jpg"
 
 PM_PIC = os.getenv("PM_PIC", "")
 if not PM_PIC:
-    PM_PIC = "https://graph.org/file/ddaac37448e7d58602ae6.jpg"
+    PM_PIC = "https://telegra.ph/file/dfe3bf37f969e4464393b.jpg"
 
 NEWS_API = os.getenv("NEWS_API", "")
 if not NEWS_API:
@@ -51,4 +51,4 @@ BLACKLIST_CHAT = [
 
 BIO = getenv("BIO", "")
 if not BIO:
-    BIO = "〆 яαввιтχ υѕєявσт υѕєя 〆"
+    BIO = "⚡𝗦𝗺𝗼𝗸𝗲𝗿 𝗔𝗱𝗱𝗶𝗰𝘁𝗶𝗼𝗻 𝗨𝘀𝗲𝗿𝗯𝗼𝘁 𝗨𝘀𝗲𝗿⚡"
