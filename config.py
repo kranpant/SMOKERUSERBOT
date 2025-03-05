@@ -8,8 +8,8 @@ API_ID = int(getenv("API_ID", "20790743")) # API_ID get it from my.telegram.org
 API_HASH = os.getenv("API_HASH", "266b46661c0eb26ee0cb9ef7dfebfe39") # API_HASH get it from my.telegram.org
 
 # SESSIONS ~ Telegram 
-SESSION = os.getenv("SESSION", "") # SESSION get it by @RaBBiTSessionBot on Telegram 
-TOKEN = os.getenv("TOKEN", "") # BOT_TOKEN get it by @BotFather on Telegram 
+SESSION = os.getenv("SESSION", "BQEvjOkAIxoKy4M0qwUDsjARdm_b7CQci2qvgwyClGzWxTbny2StzCWv-UbM6cjh6G3DzoLgkSvrACx6fOuiVscCpWWDfwJyaCmLHQabyXCMHIArqJR2NUb41AZnqiwQudTcc6jI00IwsJ9yk2E3Jz3VJvKi8Bw9AGPVuEInwpL3NUgOuF5c32vrcHgJrHaDPL5K5AivOzAHEAxILF6KX9qDcqINEOua8qSyz99D20L3dVFI6fbRFxu0F0t9k8YIJOByNidAyauobuQPY2T2qMoem3F8P8eWZ3m84N94cvesQftn2auP6q0NRMvYw8iU2YEqlkYsvA9UMFtvK0QQgBZv6HnldwAAAAHMx7MCAA") # SESSION get it by @RaBBiTSessionBot on Telegram 
+TOKEN = os.getenv("TOKEN", "6405960633:AAFNeckpR29AtqLRppGpqIZq_4frZHdIHmk") # BOT_TOKEN get it by @BotFather on Telegram 
 LOGGER_ID = int(getenv("LOGGER_ID", "-1002379258977")) # LOGGER_ID fill here your logs telegram group id
 
 # HANDLER ~ Telegram 
