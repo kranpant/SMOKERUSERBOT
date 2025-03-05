@@ -4,19 +4,19 @@ from os import getenv
 """ Here is all variables we need for deploy userbot"""
 
 # API_IDS ~ my.telegram.org
-API_ID = int(getenv("API_ID", "")) # API_ID get it from my.telegram.org
-API_HASH = os.getenv("API_HASH", "") # API_HASH get it from my.telegram.org
+API_ID = int(getenv("API_ID", "20790743")) # API_ID get it from my.telegram.org
+API_HASH = os.getenv("API_HASH", "266b46661c0eb26ee0cb9ef7dfebfe39") # API_HASH get it from my.telegram.org
 
 # SESSIONS ~ Telegram 
-SESSION = os.getenv("SESSION", "") # SESSION get it by @RaBBiTSessionBot on Telegram 
-TOKEN = os.getenv("TOKEN", "") # BOT_TOKEN get it by @BotFather on Telegram 
-LOGGER_ID = int(getenv("LOGGER_ID", "")) # LOGGER_ID fill here your logs telegram group id
+SESSION = os.getenv("SESSION", "BQGhGGQAOisDT3y_cFQsR8B44Y79BMx9RQCqkbqKMrau0DPNv5hhsIk8Tu2PZ2Odn5UtZEb9bzwPhhWcQ3HVY2EmSZa9HD8aGNA1rqMIBStLQEc1yyFWBWCTsSXwvWO9ObNgxFmpzASoZ2KLzturl28aHGalp6RYPqgyJzHSvoirOL30oZ61N2nBRZPlrye1sHXuJjeeCYj5s-GLYEIZmcJ6-p0atOMKsElPh266a4heMTOwpYSHtlp_T9Cv_XbRvikaQ6hP7wIp3pfgzEPnGYRau5iatQgytISBRpXomNU2XL99ku6VGELUilfxPHuQKpZZ1_LOBr8zyh9FZ-cn9xVUjOdJAgAAAAFucWqFAA") # SESSION get it by @RaBBiTSessionBot on Telegram 
+TOKEN = os.getenv("TOKEN", "6405960633:AAFNeckpR29AtqLRppGpqIZq_4frZHdIHmk") # BOT_TOKEN get it by @BotFather on Telegram 
+LOGGER_ID = int(getenv("LOGGER_ID", "-1002379258977")) # LOGGER_ID fill here your logs telegram group id
 
 # HANDLER ~ Telegram 
-HANDLER = os.getenv("HANDLER", "") # HANDLER fill here your command trigger
+HANDLER = os.getenv("HANDLER", ".") # HANDLER fill here your command trigger
 
 # DATABASES ~ mongodb.com
-MONGO_URI = os.getenv("MONGO_URI", "") # MONGO_URI fill here mongodb database url get it by mongodb.com
+MONGO_URI = os.getenv("MONGO_URI", "mongodb+srv://kranpantmain:ueaWKwac1qJsKCpq@cluster0.pqump.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0") # MONGO_URI fill here mongodb database url get it by mongodb.com
 
 # PORN ~ spam
 ALLOW_PORN = getenv("ALLOW_PORN", True) # u can enable and disable porn spam from here 
