@@ -8,15 +8,15 @@ API_ID = int(getenv("API_ID", "20790743")) # API_ID get it from my.telegram.org
 API_HASH = os.getenv("API_HASH", "266b46661c0eb26ee0cb9ef7dfebfe39") # API_HASH get it from my.telegram.org
 
 # SESSIONS ~ Telegram 
-SESSION = os.getenv("SESSION", "BQEvjOkAIxoKy4M0qwUDsjARdm_b7CQci2qvgwyClGzWxTbny2StzCWv-UbM6cjh6G3DzoLgkSvrACx6fOuiVscCpWWDfwJyaCmLHQabyXCMHIArqJR2NUb41AZnqiwQudTcc6jI00IwsJ9yk2E3Jz3VJvKi8Bw9AGPVuEInwpL3NUgOuF5c32vrcHgJrHaDPL5K5AivOzAHEAxILF6KX9qDcqINEOua8qSyz99D20L3dVFI6fbRFxu0F0t9k8YIJOByNidAyauobuQPY2T2qMoem3F8P8eWZ3m84N94cvesQftn2auP6q0NRMvYw8iU2YEqlkYsvA9UMFtvK0QQgBZv6HnldwAAAAHMx7MCAA") # SESSION get it by @RaBBiTSessionBot on Telegram 
-TOKEN = os.getenv("TOKEN", "6405960633:AAFNeckpR29AtqLRppGpqIZq_4frZHdIHmk") # BOT_TOKEN get it by @BotFather on Telegram 
-LOGGER_ID = int(getenv("LOGGER_ID", "-1002379258977")) # LOGGER_ID fill here your logs telegram group id
+SESSION = os.getenv("SESSION", "BQDqPPEAod-HE4M4m-IBaqFG6fiedu2a5btrr__LbLw8OWwC-hfCWWhDcIAw5t3k8UkRJVmtwtTF3kIt0HHOohmAPiUFcEt_OoZJWEWm16Ike3MrU3GXAQc1RhsCZ6CQyC5bwPGzWO9AWRYXOaXNmbu8jZhL3rhFz4fA-BoaMH597uA6Hd4iICA0XBjDwqQxsydiXwptVFwq11-BtSI8zF-3i3bjUdu-D5gFD6PXwD7LD00fevP1ELG0J4K51SnKqdlweyW1U3oV6PVuXuAqolJAHNqXJ4lquk0a7OEPGcwzmoFKJUJlcm5hsAVC9XI0L9XBHr58Pbr44lxcjOqZ8ClRooAbGwAAAAHm6hnSAA") # SESSION get it by @RaBBiTSessionBot on Telegram 
+TOKEN = os.getenv("TOKEN", "6513440724:AAH0EGqjCATl-azX89Y2Uemi3OP-BRjzoZs") # BOT_TOKEN get it by @BotFather on Telegram 
+LOGGER_ID = int(getenv("LOGGER_ID", "-1002075664729")) # LOGGER_ID fill here your logs telegram group id
 
 # HANDLER ~ Telegram 
 HANDLER = os.getenv("HANDLER", ".") # HANDLER fill here your command trigger
 
 # DATABASES ~ mongodb.com
-MONGO_URI = os.getenv("MONGO_URI", "mongodb+srv://kranpantmain:ueaWKwac1qJsKCpq@cluster0.pqump.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0") # MONGO_URI fill here mongodb database url get it by mongodb.com
+MONGO_URI = os.getenv("MONGO_URI", "mongodb+srv://kranpant_db_user:kranpant_db_user@cluster0.xy6tc02.mongodb.net/?appName=Cluster0") # MONGO_URI fill here mongodb database url get it by mongodb.com
 
 # PORN ~ spam
 ALLOW_PORN = getenv("ALLOW_PORN", True) # u can enable and disable porn spam from here 
